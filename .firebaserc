@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "parkconnect-2ab3d": {
+      "hosting": {
+        "parkconnect": [
+          "parkconnect-2ab3d"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "parkconnect-2ab3d"
+  }
+}

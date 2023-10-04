@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "parkconnect",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}
